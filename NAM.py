@@ -111,4 +111,4 @@ searchterms = searchquery.values.tolist()
 '''
 
                
-NAMdata.to_excel('C:\\Users\\Qi Yi\\Desktop\WUG ad report(NAM).xlsx')               
+             
